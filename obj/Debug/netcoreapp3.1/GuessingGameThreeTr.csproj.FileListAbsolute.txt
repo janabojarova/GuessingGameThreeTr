@@ -1,0 +1,13 @@
+/Users/janabojarova/Projects/GuessingGameThreeTr/bin/Debug/netcoreapp3.1/GuessingGameThreeTr.deps.json
+/Users/janabojarova/Projects/GuessingGameThreeTr/bin/Debug/netcoreapp3.1/GuessingGameThreeTr.runtimeconfig.json
+/Users/janabojarova/Projects/GuessingGameThreeTr/bin/Debug/netcoreapp3.1/GuessingGameThreeTr.runtimeconfig.dev.json
+/Users/janabojarova/Projects/GuessingGameThreeTr/bin/Debug/netcoreapp3.1/GuessingGameThreeTr.dll
+/Users/janabojarova/Projects/GuessingGameThreeTr/bin/Debug/netcoreapp3.1/GuessingGameThreeTr.pdb
+/Users/janabojarova/Projects/GuessingGameThreeTr/obj/Debug/netcoreapp3.1/GuessingGameThreeTr.csproj.AssemblyReference.cache
+/Users/janabojarova/Projects/GuessingGameThreeTr/obj/Debug/netcoreapp3.1/GuessingGameThreeTr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janabojarova/Projects/GuessingGameThreeTr/obj/Debug/netcoreapp3.1/GuessingGameThreeTr.AssemblyInfoInputs.cache
+/Users/janabojarova/Projects/GuessingGameThreeTr/obj/Debug/netcoreapp3.1/GuessingGameThreeTr.AssemblyInfo.cs
+/Users/janabojarova/Projects/GuessingGameThreeTr/obj/Debug/netcoreapp3.1/GuessingGameThreeTr.csproj.CoreCompileInputs.cache
+/Users/janabojarova/Projects/GuessingGameThreeTr/obj/Debug/netcoreapp3.1/GuessingGameThreeTr.dll
+/Users/janabojarova/Projects/GuessingGameThreeTr/obj/Debug/netcoreapp3.1/GuessingGameThreeTr.pdb
+/Users/janabojarova/Projects/GuessingGameThreeTr/obj/Debug/netcoreapp3.1/GuessingGameThreeTr.genruntimeconfig.cache
